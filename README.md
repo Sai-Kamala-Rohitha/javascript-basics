@@ -8,6 +8,8 @@ This repository contains my JavaScript practice as I learn the fundamentals step
 - Operators
 - Conditional statements
 - Loops
+- Arrays
+- Strings
 - Functions
 
 ## Goal
