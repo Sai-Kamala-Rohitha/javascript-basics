@@ -34,36 +34,3 @@ console.log("price:", price, typeof price);
 console.log("isStudent:", isStudent, typeof isStudent);
 console.log("city:", city, typeof city);
 console.log("phoneNumber:", phoneNumber, typeof phoneNumber);
-/*
-  Program: Arithmetic Operators in JavaScript
-  Author: Rohitha
-  Description:
-  This program demonstrates basic arithmetic operators
-  such as addition, subtraction, multiplication, division,
-  modulus, increment, and decrement.
-*/
-
-let a = 20;
-let b = 10;
-
-// Arithmetic Operations
-let addition = a + b;
-let subtraction = a - b;
-let multiplication = a * b;
-let division = a / b;
-let modulus = a % b;
-
-// Increment and Decrement
-a++;
-b--;
-
-// Output
-console.log("Addition:", addition);
-console.log("Subtraction:", subtraction);
-console.log("Multiplication:", multiplication);
-console.log("Division:", division);
-console.log("Modulus:", modulus);
-console.log("Incremented value of a:", a);
-console.log("Decremented value of b:", b);
-
-
